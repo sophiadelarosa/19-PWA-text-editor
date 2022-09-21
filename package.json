@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "test",
   "version": "1.0.0",
-  "description": "PWA-text-editor",
+  "description": "",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start": "npm run build && cd server && node server.js",
