@@ -1,4 +1,4 @@
-# 19 Progressive Web Applications (PWA): Text Editor
+# Progressive Web Applications (PWA): Text Editor
 
 ## Description
  This is a single page text editor application that runs in the browser and meets the PWA criteria. It features data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
